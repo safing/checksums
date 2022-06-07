@@ -29,7 +29,7 @@ a82424eeee8f6414546a7792f909b6a0775f2de5bd4620d75d43ab39c5aedf10  ./latest/windo
 0ad9296e62d8c8548e40b29faf05dbced59e7d9b94ea02fd1d013756f54d1e65  ./latest/windows_amd64/kext/portmaster-kext.sys
 8be100cc659d01bebc29488142663a496bdc1478d0787252fa9478b0d4d39359  ./latest/windows_amd64/notifier/portmaster-notifier.exe
 222eb83c7a371f7e6b4fdd3a7012481e9c9cee22a0cb65b301c2edced8a22ac3  ./latest/windows_amd64/notifier/portmaster-snoretoast.exe
-844a7e23d3b277e1de61eed9f0c295fd27ab517ac97f4ef0102d066aed8dbc6b  ./latest/windows_amd64/packages/portmaster-installer.exe
+b0c03a122b27165af162a071e51d3997059083715cdb056df62b68acb88280b4  ./latest/windows_amd64/packages/portmaster-installer.exe
 756ebce7c7d811723c844864c90a4fced2a9adb8112e67e609bb6c3d0ffad838  ./latest/windows_amd64/start/portmaster-start.exe
 36906d1b2fa0ce6ac27f61e274f5607d3cad8458b112a0b9f8fe0d33c2be8d16  ./latest/windows_arm64/app/portmaster-app.zip
 1382a20da5e6c744c5a16728b508cb46f0a74b2cc69c0e51e3ad6a182a462ca1  ./latest/windows_arm64/core/portmaster-core.exe

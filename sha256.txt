@@ -117,7 +117,7 @@ d828c30cbd3f255a609a222fc01b9a5019e253ee704b2a826bdb32714e10c2e6  ./windows_amd6
 f1d587b5e803ac545227b0f00cbb4497e1637b8fb12a3c927e15e3a41ef31ade  ./windows_amd64/packages/portmaster-installer_v0-5-0.exe
 84ba597d98f7bda1b9986e2342de820ce3444c4761766830451ef66c64aa49ec  ./windows_amd64/packages/portmaster-installer_v0-5-2.exe
 2a7ea1568f83f5579c9921975a05aaf7e853bc29e5f5009d86ee8c1c27c5d336  ./windows_amd64/packages/portmaster-installer_v0-7-0.exe
-844a7e23d3b277e1de61eed9f0c295fd27ab517ac97f4ef0102d066aed8dbc6b  ./windows_amd64/packages/portmaster-installer_v0-8-8.exe
+b0c03a122b27165af162a071e51d3997059083715cdb056df62b68acb88280b4  ./windows_amd64/packages/portmaster-installer_v0-8-8.exe
 d00a29d20ffeda6c856dbbe0f2ac9bf2c1add0f9d7b3e7d73bee1bb8dd38c946  ./windows_amd64/start/portmaster-start_v0-7-20.exe
 9c32ef393eaf3bdb3b082c1b1c00a7921fe7ba072b1d35b93dc837f1978f31b4  ./windows_amd64/start/portmaster-start_v0-8-1.exe
 df0fe070c4b85f98e1296f820105e9fd2b4af1015af8b7a722b14c83c790024e  ./windows_amd64/start/portmaster-start_v0-8-6.exe
