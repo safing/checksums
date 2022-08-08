@@ -3,8 +3,10 @@ de1b525a5ec336553d72cd25a08432ca3c93a26df6305d277d05fdff8d1aa280  ./all/intel/ge
 f406e69895e12975a850e387c7c25e19dce9b842abc2d03fa8a2f927328bf24a  ./all/intel/geoip/geoipv4_v20220620-11-53.mmdb.gz
 81bc66f4f4a45b270ec2626a3edfa7b9d1d08fe9083e504bbe85a154c98d8b7b  ./all/intel/geoip/geoipv4_v20220620-8-21.mmdb.gz
 e885fdbc022ea45ba1334f284e3f159f096018a86bff62de0dee4319dae46c68  ./all/intel/geoip/geoipv4_v20220620-9-59.mmdb.gz
+2e5d52d9749d297ff53bdc44a4daa6e6eb8b54bdcdb7eeaabf06474847d6c679  ./all/intel/geoip/geoipv4_v20220804-11-58.mmdb.gz
 32b3b265b09a048f9b41a0733cd687bbb8e9095bb7f6539b2bf8bf142d551203  ./all/intel/geoip/geoipv6_v20220609-7-14.mmdb.gz
 9f06be95e4deab3cb5961209bb5d6df45e61bbc469f5cc0c6f771bd891b06d75  ./all/intel/geoip/geoipv6_v20220620-11-53.mmdb.gz
+a0a13caa38f8783e84b7a2688ed0b53ab1a722f860ab9f0e0cf59487330d262c  ./all/intel/geoip/geoipv6_v20220804-12-24.mmdb.gz
 68779e8af09b05c811f31cfb45a96600a9c42742d40ed3d70d1bdf51007ca00a  ./all/ui/modules/assets_v0-2-3.zip
 e916fa24f39f743dee452d5bb650cf65a439a2dac2351a47ba4866eed7623527  ./all/ui/modules/assets_v0-2-4.zip
 4f68624567de904d7b41d2dd50c528ca84667e224bf8593f08dcebb93af6c801  ./all/ui/modules/assets_v0-2-5.zip
@@ -49,6 +51,7 @@ de2367c68526c15a2c05dfd2a7a9399aecbfe7cb3df1671926982c657ea1f31b  ./darwin_amd64
 b6e252c8ec5f04d4c90550944cd70eece5686652f104e8551b67efa4057709d1  ./darwin_amd64/hub/spn-hub_v0-3-18
 2f3d584abc1140b112dcc86921f90dbe3a13411d1c276d07a9cfb9cd54535b56  ./darwin_amd64/hub/spn-hub_v0-4-10
 3a918f8ce5179e15b65d3fc19e1246fb49797367a917fe07d2fa1356932ab35e  ./darwin_amd64/hub/spn-hub_v0-4-14
+9928d37a7b72def155c628c1ee17fdb99c9ee21410282d74037030bf10950f71  ./darwin_amd64/hub/spn-hub_v0-4-15
 1b4627fc2a0a7ba086fae839d94b7284a747ed339c4520d06ac0d23982c9f06f  ./darwin_amd64/hub/spn-hub_v0-4-6
 a8a91744f9364c4f941ea172ca2d9cecffd2f79a7804d8c0d6d043b23eacfb02  ./darwin_amd64/hub/spn-hub_v0-4-8
 59ced0dade2c7b80789c8c92bd12d54c31dd3581936deea9530240151ae7904d  ./darwin_amd64/start/portmaster-start_v0-7-20
@@ -87,6 +90,7 @@ a4fc814d314a076266d6dd91bb501fd49c0aa24a66b2ac634d84b49e8572879f  ./linux_amd64/
 6b5153c20a7dd1af90ded46e67bb454fdb528897a1727e6bc978adbd30fa0969  ./linux_amd64/hub/spn-hub_v0-3-18
 c503b028c15432579797ba4ae507873646207b099a5c07bd424b0f7bd14079b6  ./linux_amd64/hub/spn-hub_v0-4-10
 7884af08bb202f96689912761642113e67d579e30d9f76d3d53c076e84c3b8ad  ./linux_amd64/hub/spn-hub_v0-4-14
+f5d3b2c5afe55614c5de1b09cf8424f88cb4c6308f1010f4d55d5ca14586ee90  ./linux_amd64/hub/spn-hub_v0-4-15
 cf0059335e5fc40175dfb10f639d93ec7379d1fc04b620a64ee32b11da344d82  ./linux_amd64/hub/spn-hub_v0-4-6
 0c22b57423ae3a7c1771a5387b36a65aaca8b1123d19cd2a3829dd5c6c65b305  ./linux_amd64/hub/spn-hub_v0-4-8
 01392b3298a67adc93a99d6f08d702394eb634d23f68516c6e31c6b0fdcc4829  ./linux_amd64/notifier/portmaster-notifier_v0-3-1
@@ -139,6 +143,7 @@ a63fdabc9876894b41b3e9cdb7c2da6908a13a2f7583c9c1bacd25a6ae153c8b  ./windows_amd6
 728ab57bd659fa55fd7dc55eb6bb6505bd3d92ee5b53dc6440525ea2d18695ca  ./windows_amd64/hub/spn-hub_v0-3-18.exe
 86204d23f6ce81a48f945020cabf6ffadf968eb09b4c4bbebc370e507ed53daf  ./windows_amd64/hub/spn-hub_v0-4-10.exe
 54ce347e970e7bd1d76c2f7e0bc617d4c903765dc8351fd5fa75b9efcdaeb86d  ./windows_amd64/hub/spn-hub_v0-4-14.exe
+c01e0f2174cc4fae4be28e38cd2c48d0233e731d6db1c1282f21a2790514b027  ./windows_amd64/hub/spn-hub_v0-4-15.exe
 0e61d72088e1ad240e99c69b344c77cdc44bb82a5c3fcd362e3f45a1f5b7cc4b  ./windows_amd64/hub/spn-hub_v0-4-6.exe
 da40a67c704d42c22d316407033cfa44a9872267c0dbf198c766193559436000  ./windows_amd64/hub/spn-hub_v0-4-8.exe
 0087cad286ae8bc55daf56264213acaa3edb4003d409a5538639b8ddc456ad14  ./windows_amd64/kext/portmaster-kext_v1-0-10.dll
