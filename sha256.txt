@@ -31,6 +31,7 @@ eb9bf9c5a9e92afe9527124ce7522c8b5049496a9b75eff0efc4f8868bd0192f  ./all/ui/modul
 8ba9bd37655282b1ac077c2863f999a909b396c38562ca86084cc5b56bca0ee4  ./all/ui/modules/portmaster_v0-3-1.zip
 6d587d5f13e335177b9a91b5095dd48a0cae560cc48edc667179dde80d7706d7  ./all/ui/modules/portmaster_v0-3-2.zip
 5033e225bcd7401f8108162459faa8d1f61adac6b5ee459769d030568749ea5e  ./all/ui/modules/portmaster_v0-3-3.zip
+2c3795d9478488e638bb5066b355886caa3660cf6eda60ce34c2d3eadfc2c469  ./all/ui/modules/portmaster_v0-3-4.zip
 a3895dd532e1d34178e10a32250678f68cbe4c28742ec5321ed2e03d45d5d34e  ./all/ui/modules/profilemgr_v0-1-4.zip
 8fdaa5211080a3d4eeb2825d7347d9ce51bf5506700f9e367621c91cc54c25c0  ./all/ui/modules/profilemgr_v0-1-5.zip
 e38a307d389172e42683d29f8bdc33d6b91ae6df9c6ea53fd8f92038a4540836  ./all/ui/modules/profilemgr_v0-1-6.zip
@@ -78,6 +79,7 @@ c10b5b823dfd353c2f28f91ba9f8fda2548f0574eb3347dfa63ee359c65bb722  ./darwin_arm64
 f68622a69f31640bfdff43311eeaab5210ce4aa108b1ff94c1afe65f080926d4  ./linux_amd64/app/portmaster-app_v0-2-1.zip
 629dfc63facb0bc4353b2d411bfc072e081050a2fb00a07ae650bdd867296c03  ./linux_amd64/app/portmaster-app_v0-2-2.zip
 ee8955169523f36aeb7b2d588c8105574041bfe662237ddbbe396596385987c2  ./linux_amd64/app/portmaster-app_v0-2-3.zip
+9209d50420fac124ce051f2c57870f7f46d55f9ede74d7d22da74216f3ac9cf4  ./linux_amd64/app/portmaster-app_v0-2-4.zip
 54e730610a0be2e7ca802ddac687fe7a47147e32410f3b4415aceb09dcf30a93  ./linux_amd64/core/portmaster-core_v0-8-10
 768af121ddd2adb9d46d226d6991d9f1a2385e4ce96d6ef8223e4d417a2272bf  ./linux_amd64/core/portmaster-core_v0-8-11
 68c6e3a00bca9621c061b0c9840c3b2fde021f83b795bfb4f07fe3eaa0975253  ./linux_amd64/core/portmaster-core_v0-8-12
@@ -109,6 +111,7 @@ dc9347478f6a9f0310bddb43962b36c42726d4c6fca080f884bb81bcbc4070be  ./linux_amd64/
 2293d94e7a3a937aad30e5d569950f77abe582d5470ebb80fc477db5d478dde2  ./linux_amd64/start/portmaster-start_v0-9-0
 b7397d0294dcf787415d3993b2fa7e14cc504233683803058a39f14b5b76b13d  ./linux_amd64/start/portmaster-start_v0-9-1
 975c5a3c138a6a4a53aaa09607a3bf2b7670eb1f98925f2ca63f7e9f512e375b  ./linux_arm64/app/portmaster-app_v0-2-3.zip
+c1a6ca6e2eb66a9572ab15b49d762ccc932814d4b3f19e5715214dabb64f4aea  ./linux_arm64/app/portmaster-app_v0-2-4.zip
 a4a4640954ba19cfa67ba330b2c40a8c480af802c24db335ac20ec3ef0d1d0ee  ./linux_arm64/core/portmaster-core_v0-8-10
 18b2506be3b12e8ba12dedb1576475fed9dfbfac3c098cb7319a7a9ea61825fe  ./linux_arm64/core/portmaster-core_v0-8-11
 e5baf4474f61123e0f56e5358b7e730b2ef35f1e50bae07f3e60c5035d5045f9  ./linux_arm64/core/portmaster-core_v0-8-12
@@ -131,6 +134,7 @@ db51b125d172b29abb238e6ea81c19ed5eff506c78563839a7121c7a556ecc6a  ./windows_amd6
 791160af0c1b1e535b60d07175e9be9bfe6e007696fa67936b50ebe94d52c8c7  ./windows_amd64/app/portmaster-app_v0-2-1.zip
 4c6cf7d52fd0d8ac5294795da29c291d5e30093630d1b06510cf92039e765b88  ./windows_amd64/app/portmaster-app_v0-2-2.zip
 de9b9ca33ab785a1dc10ed3b2d0040ab567ff6feb50d5b233bc9f49d3e2aee19  ./windows_amd64/app/portmaster-app_v0-2-3.zip
+9af009606722c8d76aede41e44869e8c8a799f6cfb4917705069514e821e07a7  ./windows_amd64/app/portmaster-app_v0-2-4.zip
 22e8eae34e012ffd3fb4ac35ba566dd53abdb405412382cb0ff6d2034bcee3d2  ./windows_amd64/core/portmaster-core_v0-8-10.exe
 e5fd0a0bfb945ed43e85df0d9df89ae9724208262f3089d3a0b56bc6b1e353ad  ./windows_amd64/core/portmaster-core_v0-8-11.exe
 cbc607e52ec66033cb379ccc46c23269adabd6eaf4e66e408a28867de703ad7a  ./windows_amd64/core/portmaster-core_v0-8-12.exe
@@ -172,6 +176,7 @@ df0fe070c4b85f98e1296f820105e9fd2b4af1015af8b7a722b14c83c790024e  ./windows_amd6
 7a2eab8ecc036df8def0f56df05995693334b8fb515c0b05853071151512f54a  ./windows_amd64/start/portmaster-start_v0-9-0.exe
 a2ee6ea2f8d6be4a7230185f521cc8983708d4a401a3621e9dd68e47322f4248  ./windows_amd64/start/portmaster-start_v0-9-1.exe
 36906d1b2fa0ce6ac27f61e274f5607d3cad8458b112a0b9f8fe0d33c2be8d16  ./windows_arm64/app/portmaster-app_v0-2-3.zip
+9866eb6bcd578022d0ab7da6707c9b56e9ddc1236a4dfc11bd9da78003d37b6b  ./windows_arm64/app/portmaster-app_v0-2-4.zip
 6697ba42a4a53282a237d35b18c21d2a0d3a7d7d57f6121b6effb03f73224a69  ./windows_arm64/core/portmaster-core_v0-8-10.exe
 32ad5aaf9c96ba651668d6a2fb83a77193f3d11f9069bc4c4c7ff1a1346865b9  ./windows_arm64/core/portmaster-core_v0-8-11.exe
 ad7b470c08a38e70cd53c63136908fb5b660f225e67886f0ccb49d002c20b35f  ./windows_arm64/core/portmaster-core_v0-8-12.exe
