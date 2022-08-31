@@ -50,12 +50,14 @@ a42d94eb900ec48d1253910b494b5f3ba73218f7cabc338460fb8085d0225614  ./darwin_amd64
 24ac6790ad72bdce3112ec00a07a52d7f02a9d414fd265e981a285f0f516b0ca  ./darwin_amd64/core/portmaster-core_v0-9-2
 de2367c68526c15a2c05dfd2a7a9399aecbfe7cb3df1671926982c657ea1f31b  ./darwin_amd64/core/portmaster-core_v0-9-3
 6ac861aa985e8aa4647c2489ea1ac7700be9c1b8625297659f5950c4936362fd  ./darwin_amd64/core/portmaster-core_v0-9-4
+0afe71dae9d8154643ba2c2e09bad9a3372d72f3092bfd68dcfcbab55ecf95ff  ./darwin_amd64/core/portmaster-core_v0-9-5
 b6e252c8ec5f04d4c90550944cd70eece5686652f104e8551b67efa4057709d1  ./darwin_amd64/hub/spn-hub_v0-3-18
 2f3d584abc1140b112dcc86921f90dbe3a13411d1c276d07a9cfb9cd54535b56  ./darwin_amd64/hub/spn-hub_v0-4-10
 3a918f8ce5179e15b65d3fc19e1246fb49797367a917fe07d2fa1356932ab35e  ./darwin_amd64/hub/spn-hub_v0-4-14
 9928d37a7b72def155c628c1ee17fdb99c9ee21410282d74037030bf10950f71  ./darwin_amd64/hub/spn-hub_v0-4-15
 1b4627fc2a0a7ba086fae839d94b7284a747ed339c4520d06ac0d23982c9f06f  ./darwin_amd64/hub/spn-hub_v0-4-6
 a8a91744f9364c4f941ea172ca2d9cecffd2f79a7804d8c0d6d043b23eacfb02  ./darwin_amd64/hub/spn-hub_v0-4-8
+0d96bdb40309c429700213193c1d4e671ef199ef1506f106b0930b9570b79e3b  ./darwin_amd64/hub/spn-hub_v0-5-0
 59ced0dade2c7b80789c8c92bd12d54c31dd3581936deea9530240151ae7904d  ./darwin_amd64/start/portmaster-start_v0-7-20
 8d11c8b8359a40661981b076a5b2791089e8b2fb63325f072d967babcc38fe78  ./darwin_amd64/start/portmaster-start_v0-8-1
 e27a5dbb3de5ef07d8160fff4f372061e724e32a22e3ddb7cea684dc1a57b789  ./darwin_amd64/start/portmaster-start_v0-8-6
@@ -63,6 +65,7 @@ e27a5dbb3de5ef07d8160fff4f372061e724e32a22e3ddb7cea684dc1a57b789  ./darwin_amd64
 11aabc567751828436374bbe981ed8a905320feaa2824860bdc4e9dbbdf9ad66  ./darwin_amd64/start/portmaster-start_v0-9-0
 2e51d543413595fcb1e81710a92d9231d71075722a360696d5df4557373add57  ./darwin_amd64/start/portmaster-start_v0-9-1
 6b5f1931c83b77d29bfa1ca02400293df2d29a123c80018dc4a55f7b0540b90b  ./darwin_amd64/start/portmaster-start_v0-9-4
+e9aa67e5f62c08fc464f5be84c8810aae0ba5707b27e16b3e558cc0f30162bfc  ./darwin_amd64/start/portmaster-start_v0-9-5
 dbcb75d8e2ef66493239a74331191f360c1f7b25893e3e2629b89e045f9bd76a  ./darwin_arm64/core/portmaster-core_v0-8-10
 2f741237f03d0d39434713da09e146b9418be3f424ee0400dac7a136ff9a00ce  ./darwin_arm64/core/portmaster-core_v0-8-11
 81f8647403bdce16df1df0185dc67ad5f2ae1ae5953506d5fe8e520eeaa46ad9  ./darwin_arm64/core/portmaster-core_v0-8-12
@@ -73,12 +76,14 @@ dbcb75d8e2ef66493239a74331191f360c1f7b25893e3e2629b89e045f9bd76a  ./darwin_arm64
 8f412a8ad68622aa646be339c1ef59824bb78f10953396e1ec9784c0de95fbf9  ./darwin_arm64/core/portmaster-core_v0-9-2
 4b1a449114ef467c084dbd4bb555af225ddc55ebfa340b56936d5cabdbcbc5d1  ./darwin_arm64/core/portmaster-core_v0-9-3
 0dca5580746332a2d0410b862ffb9ef2d0c37f6ed44ef92dc3702ac5b185e7a2  ./darwin_arm64/core/portmaster-core_v0-9-4
+47a96c82f03c25ac3dea504902aec37ffd5eafee1e2b6f1fb978598c2dcc6523  ./darwin_arm64/core/portmaster-core_v0-9-5
 c10b5b823dfd353c2f28f91ba9f8fda2548f0574eb3347dfa63ee359c65bb722  ./darwin_arm64/start/portmaster-start_v0-8-1
 7ebc2480a0428e50e7cc87d5f92851bbf8abb3ed9ebcf8bc7d8146ada9ef876c  ./darwin_arm64/start/portmaster-start_v0-8-6
 117a89e1b60060d605fecc4f8edfb56e0a5041d33de1927a36aed4d4a021d0de  ./darwin_arm64/start/portmaster-start_v0-8-8
 1f32eaf6914e878e6ffd74f9b34960e78a43b4ee98483838bd3acab3c583ed4c  ./darwin_arm64/start/portmaster-start_v0-9-0
 6b98f377259574efe6940ef07ddeaf7c646b5d93f8fdfca94a10d41f094e915d  ./darwin_arm64/start/portmaster-start_v0-9-1
 5b7fa53d36e8b5a36bd73ba3f8f321c22a5665127c0edd72cb20fc9f8949507b  ./darwin_arm64/start/portmaster-start_v0-9-4
+91d9d95f51c18e7686dd2e3238a4a4eeae117a5e646101b5c0c1d672cffd4a64  ./darwin_arm64/start/portmaster-start_v0-9-5
 706c7d4eb3b4b05684d1eb33f5160211de366e6f00f0fb808350c0ebb4096c16  ./linux_amd64/app/portmaster-app_v0-2-0.zip
 f68622a69f31640bfdff43311eeaab5210ce4aa108b1ff94c1afe65f080926d4  ./linux_amd64/app/portmaster-app_v0-2-1.zip
 629dfc63facb0bc4353b2d411bfc072e081050a2fb00a07ae650bdd867296c03  ./linux_amd64/app/portmaster-app_v0-2-2.zip
@@ -95,12 +100,14 @@ a4fcaf56a2be26768cd4655f00fedce05aaebada86d8d47e64040fa52c3b0f0a  ./linux_amd64/
 a4fc814d314a076266d6dd91bb501fd49c0aa24a66b2ac634d84b49e8572879f  ./linux_amd64/core/portmaster-core_v0-9-2
 557a900ee49543462639f39de697a403f5f7d966ee844b888bf1fa1d82f00efa  ./linux_amd64/core/portmaster-core_v0-9-3
 2bfb0d4a6d12f0012aaab82fa4cccc761027911086d2d952d25056bb477fa86c  ./linux_amd64/core/portmaster-core_v0-9-4
+69dd835c89954c41dba5ebde2c3afda6bf8b93b9f74b21fdbb898f4d793bbed2  ./linux_amd64/core/portmaster-core_v0-9-5
 6b5153c20a7dd1af90ded46e67bb454fdb528897a1727e6bc978adbd30fa0969  ./linux_amd64/hub/spn-hub_v0-3-18
 c503b028c15432579797ba4ae507873646207b099a5c07bd424b0f7bd14079b6  ./linux_amd64/hub/spn-hub_v0-4-10
 7884af08bb202f96689912761642113e67d579e30d9f76d3d53c076e84c3b8ad  ./linux_amd64/hub/spn-hub_v0-4-14
 f5d3b2c5afe55614c5de1b09cf8424f88cb4c6308f1010f4d55d5ca14586ee90  ./linux_amd64/hub/spn-hub_v0-4-15
 cf0059335e5fc40175dfb10f639d93ec7379d1fc04b620a64ee32b11da344d82  ./linux_amd64/hub/spn-hub_v0-4-6
 0c22b57423ae3a7c1771a5387b36a65aaca8b1123d19cd2a3829dd5c6c65b305  ./linux_amd64/hub/spn-hub_v0-4-8
+e54a617f955690a0726d61faab8c242e4ccbc65d0774ba2505706416b2ffc27d  ./linux_amd64/hub/spn-hub_v0-5-0
 01392b3298a67adc93a99d6f08d702394eb634d23f68516c6e31c6b0fdcc4829  ./linux_amd64/notifier/portmaster-notifier_v0-3-1
 eebd48d1d052f05003ea64bc43cfedddbca1a4f0f6f86f817e9fc9b1945f5336  ./linux_amd64/notifier/portmaster-notifier_v0-3-2
 da463be86816d1d5abb269aa98cfaaa447a649c8b8aaea6e466facc818689487  ./linux_amd64/notifier/portmaster-notifier_v0-3-2-testone
@@ -117,6 +124,7 @@ dc9347478f6a9f0310bddb43962b36c42726d4c6fca080f884bb81bcbc4070be  ./linux_amd64/
 2293d94e7a3a937aad30e5d569950f77abe582d5470ebb80fc477db5d478dde2  ./linux_amd64/start/portmaster-start_v0-9-0
 b7397d0294dcf787415d3993b2fa7e14cc504233683803058a39f14b5b76b13d  ./linux_amd64/start/portmaster-start_v0-9-1
 42d6006511b1a6047475a3dbfe39331de6e8a2b1e39539154e1626bfdc056795  ./linux_amd64/start/portmaster-start_v0-9-4
+ce290b85aa47073e405da597457299ef2dbf72da4f97199efc8fc8826d43886a  ./linux_amd64/start/portmaster-start_v0-9-5
 975c5a3c138a6a4a53aaa09607a3bf2b7670eb1f98925f2ca63f7e9f512e375b  ./linux_arm64/app/portmaster-app_v0-2-3.zip
 c1a6ca6e2eb66a9572ab15b49d762ccc932814d4b3f19e5715214dabb64f4aea  ./linux_arm64/app/portmaster-app_v0-2-4.zip
 11f707d288dff9d7d5f9ee08df648834510afaa5045f1cef4aa5c9146b3afbe4  ./linux_arm64/app/portmaster-app_v0-2-5.zip
@@ -130,6 +138,7 @@ cc1a8a04dda63964f1bee3814de2f9ac3c03b5443a47e45b68474d427dfd384c  ./linux_arm64/
 1e5e45e29475e0375bd2194b4b6a608fa67c45cf7b766a84b65cf588aada56a5  ./linux_arm64/core/portmaster-core_v0-9-2
 d55db56ee7776f8b4ec6237706b97ed80657b47c737be110c74a5df70cb14260  ./linux_arm64/core/portmaster-core_v0-9-3
 9cdbbdb06c77b9b849dc55db1f105402a288e03277ef573fd5ece4ca57963b6a  ./linux_arm64/core/portmaster-core_v0-9-4
+3b3bb3320b12b829061e9eed2ab8e7320eeeb6502b57daffe668e11797381a0d  ./linux_arm64/core/portmaster-core_v0-9-5
 9162870746713d91c840947f3f0217e5fec0e01fde0b84f9688f3a2707a42e68  ./linux_arm64/notifier/portmaster-notifier_v0-3-1
 d176ae3cf1a7acd33d5834c7a584134494d8ff1355675934df2d1864a439eb63  ./linux_arm64/notifier/portmaster-notifier_v0-3-2
 2881d49674c7df775773fcd3e320a416d9e28f849680727a73fc90fece8c8a32  ./linux_arm64/notifier/portmaster-notifier_v0-3-2-testone
@@ -140,6 +149,7 @@ e99adb5a9a9f78bbed43e4aed7857ea9aeec368cec73aabd709293297e033e50  ./linux_arm64/
 038c5e23094770db838256411b67322aed5ebbfafe3787dff99b3ccfee3111ff  ./linux_arm64/start/portmaster-start_v0-9-0
 ad0423dff0032235c166ddf91c6140791ec662e84eb8a50198a4135bdaa30926  ./linux_arm64/start/portmaster-start_v0-9-1
 87667d7222ef4e6ffb665efc95eb307af29d0d94799959eb12924d53134a62c7  ./linux_arm64/start/portmaster-start_v0-9-4
+d6bf4610e4bfbe2e6c2c54d5c59f727fdd430ce8c752aec88c24a2d5dfbc7f31  ./linux_arm64/start/portmaster-start_v0-9-5
 db51b125d172b29abb238e6ea81c19ed5eff506c78563839a7121c7a556ecc6a  ./windows_amd64/app/portmaster-app_v0-2-0.zip
 791160af0c1b1e535b60d07175e9be9bfe6e007696fa67936b50ebe94d52c8c7  ./windows_amd64/app/portmaster-app_v0-2-1.zip
 4c6cf7d52fd0d8ac5294795da29c291d5e30093630d1b06510cf92039e765b88  ./windows_amd64/app/portmaster-app_v0-2-2.zip
@@ -156,12 +166,14 @@ a63fdabc9876894b41b3e9cdb7c2da6908a13a2f7583c9c1bacd25a6ae153c8b  ./windows_amd6
 50e88a599c04d9cb5b496e93bbd17b9402c8851c035113dfe5efac8847521975  ./windows_amd64/core/portmaster-core_v0-9-2.exe
 5fc4418d2fbb53b88fcb3556ce3f194b0b1067de0b6375940eed068934ed0d93  ./windows_amd64/core/portmaster-core_v0-9-3.exe
 4e1818a2298a0dcc7f280f9e390099ad81cb1f5759d2bf02cb0a0cd9d3b5c53a  ./windows_amd64/core/portmaster-core_v0-9-4.exe
+d23daae108d14bf5be79fbfec8d836eb45cc0817a208390a5f3d1b88b3344f05  ./windows_amd64/core/portmaster-core_v0-9-5.exe
 728ab57bd659fa55fd7dc55eb6bb6505bd3d92ee5b53dc6440525ea2d18695ca  ./windows_amd64/hub/spn-hub_v0-3-18.exe
 86204d23f6ce81a48f945020cabf6ffadf968eb09b4c4bbebc370e507ed53daf  ./windows_amd64/hub/spn-hub_v0-4-10.exe
 54ce347e970e7bd1d76c2f7e0bc617d4c903765dc8351fd5fa75b9efcdaeb86d  ./windows_amd64/hub/spn-hub_v0-4-14.exe
 c01e0f2174cc4fae4be28e38cd2c48d0233e731d6db1c1282f21a2790514b027  ./windows_amd64/hub/spn-hub_v0-4-15.exe
 0e61d72088e1ad240e99c69b344c77cdc44bb82a5c3fcd362e3f45a1f5b7cc4b  ./windows_amd64/hub/spn-hub_v0-4-6.exe
 da40a67c704d42c22d316407033cfa44a9872267c0dbf198c766193559436000  ./windows_amd64/hub/spn-hub_v0-4-8.exe
+7568db558a3f5697f170a4181e270cf48633688bbe494533ac9a399977c5f29f  ./windows_amd64/hub/spn-hub_v0-5-0.exe
 0087cad286ae8bc55daf56264213acaa3edb4003d409a5538639b8ddc456ad14  ./windows_amd64/kext/portmaster-kext_v1-0-10.dll
 be551de47e1141f2478b4d26bd00d62cab4c527eebc0cb658783d4e0c7b5d794  ./windows_amd64/kext/portmaster-kext_v1-0-10.sys
 a82424eeee8f6414546a7792f909b6a0775f2de5bd4620d75d43ab39c5aedf10  ./windows_amd64/kext/portmaster-kext_v1-0-11.dll
@@ -188,6 +200,7 @@ df0fe070c4b85f98e1296f820105e9fd2b4af1015af8b7a722b14c83c790024e  ./windows_amd6
 7a2eab8ecc036df8def0f56df05995693334b8fb515c0b05853071151512f54a  ./windows_amd64/start/portmaster-start_v0-9-0.exe
 a2ee6ea2f8d6be4a7230185f521cc8983708d4a401a3621e9dd68e47322f4248  ./windows_amd64/start/portmaster-start_v0-9-1.exe
 aaf0fdfa96fe018a40fd5b52a2abc1838266ad23ff9dbc5fb6204b89f824fdda  ./windows_amd64/start/portmaster-start_v0-9-4.exe
+2356e8a0be4570062e7654b76fa580cfe80f977106d34725e24767d209c34362  ./windows_amd64/start/portmaster-start_v0-9-5.exe
 36906d1b2fa0ce6ac27f61e274f5607d3cad8458b112a0b9f8fe0d33c2be8d16  ./windows_arm64/app/portmaster-app_v0-2-3.zip
 9866eb6bcd578022d0ab7da6707c9b56e9ddc1236a4dfc11bd9da78003d37b6b  ./windows_arm64/app/portmaster-app_v0-2-4.zip
 fe95d05d1daaa62e3aefd320b02ca19ab43fce92a43c021f8959c07ec3399719  ./windows_arm64/app/portmaster-app_v0-2-5.zip
@@ -201,6 +214,7 @@ ad7b470c08a38e70cd53c63136908fb5b660f225e67886f0ccb49d002c20b35f  ./windows_arm6
 ec18ed4187a7375f6977282bb39676304b080461f570b12225b4be0bd259afa9  ./windows_arm64/core/portmaster-core_v0-9-2.exe
 92282c43b343b799f49e98201301e65f494f688a96a005e60019cfdc5f5d0bfb  ./windows_arm64/core/portmaster-core_v0-9-3.exe
 e494225af363a4db3715f5512c9ff22801a77aeea70fd418b793753e48f9b10f  ./windows_arm64/core/portmaster-core_v0-9-4.exe
+90280799fbda533898d2b5f189f49fb9ded016ada64e0692d0732d9f9703ec27  ./windows_arm64/core/portmaster-core_v0-9-5.exe
 fe7724b4cace621bcca4223f640ca9f1a82ddc59baa762d44d6a9f5233133394  ./windows_arm64/notifier/portmaster-notifier_v0-3-1.exe
 9f434b7610084b73684a0288ff58329afb8cca9a4666e2b45000c23bba3fdf9b  ./windows_arm64/notifier/portmaster-notifier_v0-3-2.exe
 66884302639dcda7b87b017194281ba38b6ab5fd04fed1e2b123232a9087d0f4  ./windows_arm64/notifier/portmaster-notifier_v0-3-2-testone.exe
@@ -211,3 +225,4 @@ d268757a50dcb3a63a9456fdbf42e38862c0a4b24423ec4dc7e980ed923047a8  ./windows_arm6
 7f3b3c0484855745fb401de2cfa5efe091176347ef1f71efbb39010b35523698  ./windows_arm64/start/portmaster-start_v0-9-0.exe
 e41170665d2f8a0b05d287346b71f659c5309b763df7a392cd1e6dd9b0668fa8  ./windows_arm64/start/portmaster-start_v0-9-1.exe
 5a1784b4122f53c34e7d044aad997a0b66a8596a2bb90d82998b9e4ea275f824  ./windows_arm64/start/portmaster-start_v0-9-4.exe
+291b7eadf7d3e8df510e248e1e4d0f714dc2adecdf3f2e0295476726c28b3f21  ./windows_arm64/start/portmaster-start_v0-9-5.exe
