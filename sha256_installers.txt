@@ -1,5 +1,5 @@
 d9bf469fd1f3bee8aefd811e019453bc95352289b4eada746d30b92e16e68213  ./portmaster-installer.deb
-61cb59f25c4fcb130df0e925f6a1df21569379280c501dab1754080a24260856  ./portmaster-installer.exe
+f43a3e6eef805925d8c3d5bdbe6aa1848bb5b4d8fca55c1e7e291e20c6a10c92  ./portmaster-installer.exe
 c20562106be6be1948a5700bcedf327e1d2c20417f4575e2f22ea361f12d2aa7  ./portmaster-installer.rpm
 d0c5ddcf6c477b6654a6dac807b420e559a8176d672226f2391c48c53109d3aa  ./portmaster-installer_v0-7-0.deb
 dcd710468c6a8fd3b64afe33c4481991ccc3f758c2fbe0ac8e0d522f76d186f6  ./portmaster-installer_v0-7-0.rpm
@@ -13,3 +13,4 @@ c3160c89dc4bc2caa653539d62c97ba1a18c12f1fa1baaed01f4fffe459aaab6  ./portmaster-i
 d9bf469fd1f3bee8aefd811e019453bc95352289b4eada746d30b92e16e68213  ./portmaster-installer_v1-0-0.deb
 61cb59f25c4fcb130df0e925f6a1df21569379280c501dab1754080a24260856  ./portmaster-installer_v1-0-0.exe
 c20562106be6be1948a5700bcedf327e1d2c20417f4575e2f22ea361f12d2aa7  ./portmaster-installer_v1-0-0.rpm
+f43a3e6eef805925d8c3d5bdbe6aa1848bb5b4d8fca55c1e7e291e20c6a10c92  ./portmaster-installer_v1-0-13.exe
