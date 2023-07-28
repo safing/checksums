@@ -5,7 +5,7 @@ daebed2d938685900a022c4932e8fb0989c5d6c187fc7e31cefef2d0ebdbc244  ./latest/all/i
 b6cce29eefe416bf44908f7c44c2bf44d2db3e6525066d563ee4956b508b6f5a  ./latest/all/ui/modules/base.zip
 b9e62efd3477012415d220c0abab18a15c36e2e2f96cd7c49bfde2e04ade8f76  ./latest/all/ui/modules/console.zip
 356708c1b946a10d1f443b995b01b8481890f2ff5944e680b261e7cf6a4ea99e  ./latest/all/ui/modules/monitor.zip
-8261142e3162084af2684962f11db0c80b2d9f2d4d6ba3466d2ef087d7010f3a  ./latest/all/ui/modules/portmaster.zip
+8cb5525b953749a89b8af4be33d16142eee7bb9a4a37ad4fecb810a7847c0fa9  ./latest/all/ui/modules/portmaster.zip
 cee57885e5144d79bff6866968e696cef446b5c55a9c8226acc9b56637923762  ./latest/all/ui/modules/profilemgr.zip
 2dc8b9d80af28d49901ef686d8c21760ab8575d03c5c49c8605e96342533471e  ./latest/all/ui/modules/settings.zip
 53068be1157a5feb3ee94cb3c2827b138349c5ed746506302b31ad9abf5529db  ./latest/android_any/app/portmaster-beta.apk
