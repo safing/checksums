@@ -38,6 +38,7 @@ ca6f624ea307ccf9d6cf8236fa0726f9e2713be86151478c41ced3ff6c49345b  ./all/ui/modul
 45869dfef2515395c04865f3b876c3fcdf94b4d3ef344ef74c54440b9abcace5  ./all/ui/modules/portmaster_v0-7-3.zip
 b41dc9271fbbc56aa684ad893d66caa2725c0e0da57b1865711188549e22d2c5  ./all/ui/modules/portmaster_v0-7-4.zip
 9348008dbb8817443619be6ae5a633893ba4c1a5eb83b9498440ed8a79cb85e3  ./all/ui/modules/portmaster_v0-7-5.zip
+9e2d3dd3d86e7d12f9c8e6cc38e436b768d178508adaef271b9ff77220bf5132  ./all/ui/modules/portmaster_v0-7-6.zip
 a3895dd532e1d34178e10a32250678f68cbe4c28742ec5321ed2e03d45d5d34e  ./all/ui/modules/profilemgr_v0-1-4.zip
 8fdaa5211080a3d4eeb2825d7347d9ce51bf5506700f9e367621c91cc54c25c0  ./all/ui/modules/profilemgr_v0-1-5.zip
 e38a307d389172e42683d29f8bdc33d6b91ae6df9c6ea53fd8f92038a4540836  ./all/ui/modules/profilemgr_v0-1-6.zip
