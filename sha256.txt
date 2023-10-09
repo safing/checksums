@@ -77,6 +77,7 @@ e19ff9b9f4f32439d8536577380a4f0e624889e7a8141b1f1044b7509c740020  ./darwin_amd64
 d1081e799148e3d4523b10132b6fb6feaebca59eff1f3ae5f78af1bf35952238  ./darwin_amd64/core/portmaster-core_v1-4-0
 6ef8b97ec3148f57b58855e428955eeb30659f33594200a143319beffa4fc4b2  ./darwin_amd64/core/portmaster-core_v1-4-1
 84c21337bf69d397795254b383fc6632d90b526632e1201b7ffc63724feb94fd  ./darwin_amd64/core/portmaster-core_v1-4-10
+16f214531068545f9cedab9d298f7c79131abae19d27be4cc10c73ce126be7e1  ./darwin_amd64/core/portmaster-core_v1-4-11
 7a3c2cd13671d1831ee288a1dc50ab731c40b5cf6c3b08fdffc920c6cbd6ceea  ./darwin_amd64/core/portmaster-core_v1-4-2
 046d9945f5aa5b39518c520d4cf8c01436f9e136c21a28aee7ae3ebc29a9656f  ./darwin_amd64/core/portmaster-core_v1-4-3
 6bc839dfb0c81b83fd97e24c051b3006be1570ed8560305f0720092129c00f01  ./darwin_amd64/core/portmaster-core_v1-4-4
@@ -132,6 +133,7 @@ accacd580875269a9df55c07f14dec323e61e811dfce008b74a0116545920247  ./darwin_arm64
 fb2005dd86d3823359c4d1d767f2113e04070be4b93a9a194e5b69ba1f878852  ./darwin_arm64/core/portmaster-core_v1-4-0
 0dec929ebab92143629261a68ab04b6f97e44a9e98c045f783358b8df65d297e  ./darwin_arm64/core/portmaster-core_v1-4-1
 06a03b7fef85286c9d80c0c56b665285797ce39132406d1c47e9664934e4e4df  ./darwin_arm64/core/portmaster-core_v1-4-10
+b5a3bb082cd25e21326915e59ed59599ac634d4d455fe040cf984e09496462f1  ./darwin_arm64/core/portmaster-core_v1-4-11
 4aae405108a5a68282b7694a8d06387490d7e41db72e5cda931dd15c49c10b8c  ./darwin_arm64/core/portmaster-core_v1-4-2
 f36e1b0f9265e4b03f4b4efb1ed6a034c9fae2da49c479fe0f8fbcd851191524  ./darwin_arm64/core/portmaster-core_v1-4-3
 40aae117cabe5c4e593e6a3f5c383979d6458a02ae11e35275b55c08ff82cab5  ./darwin_arm64/core/portmaster-core_v1-4-4
@@ -191,6 +193,7 @@ df73195149f0db5320dac0d9032d5750bd2f90afa3dc10623dacf7c721a38dad  ./linux_amd64/
 3030aeaa56a605f5f2abb2bac96cf11aa5dea9705bbd13e4dbacec509275d89f  ./linux_amd64/core/portmaster-core_v1-4-0
 088f49d1a802dd32aa8eefce2af4741ca041516d65b2696083b27f8f8fb8d515  ./linux_amd64/core/portmaster-core_v1-4-1
 792f3a196196b375e9e3122976f06361f41d41852b4f966d4f6d85600fa69dad  ./linux_amd64/core/portmaster-core_v1-4-10
+32c67b6fd39a46fea95f6d18f7da3f1bf9a349bd576430720bf28c4d8bd7aad3  ./linux_amd64/core/portmaster-core_v1-4-11
 3e8d32292213e20bce1c8daee19205dfb2a8c8687a575e30523e3da6283c0542  ./linux_amd64/core/portmaster-core_v1-4-2
 1ccce6ca62577652203d39ad8b5e00045e2a83a8d22bf3483502d60ba0606fff  ./linux_amd64/core/portmaster-core_v1-4-3
 753f51cbff84ab07f94a3d3a38cc79549886b413a4a0bcd07e13284b2b7d9c7d  ./linux_amd64/core/portmaster-core_v1-4-4
@@ -270,6 +273,7 @@ ebd74a56ff539eb703ae33921af5e0981b1a5362cfec28e74e331dbcffbaa325  ./linux_arm64/
 48d842ce94d5057c7a1ebf80d95bd7b36923c5b6bda44a4e9fa576d28468d3ab  ./linux_arm64/core/portmaster-core_v1-4-0
 c30d2781cb7467703d0c50c8b8f2530c4d50dd73fe6413d8ad9b5c113979d580  ./linux_arm64/core/portmaster-core_v1-4-1
 112d354f93060cd0d6f714f68fb2fbdf2c50226c330a1327e1901b3c618ea13d  ./linux_arm64/core/portmaster-core_v1-4-10
+fc8874082a2daa812cfbce6b1ad3ad79459a8f60448f9e3c306308b7fd9045c9  ./linux_arm64/core/portmaster-core_v1-4-11
 f27f5a4c71544657cd2cfed91d8fcd85fe2abbf608a81064db710dd2f9e1d17e  ./linux_arm64/core/portmaster-core_v1-4-2
 80c834960d4687275d136a4287dafca1a19c2f430884f02d53b735a62389d53c  ./linux_arm64/core/portmaster-core_v1-4-3
 3a446a0b3144849b85b31c26f82e78ae3b8a6c3f35d88e158b6b44c2f1b420f6  ./linux_arm64/core/portmaster-core_v1-4-4
@@ -328,6 +332,7 @@ eece4dc88bb5766cd14ad8737cd002c3744c28d715ce1e0ecb53217dadfac9d5  ./windows_amd6
 26784b11f8bee330660315072dc701ba038551be333f30309b0ff8d599eb1feb  ./windows_amd64/core/portmaster-core_v1-3-6.exe
 5224349e24e7d63238e7dcda9aecd3f5a17b3bd0dd83246c9555c80217aada88  ./windows_amd64/core/portmaster-core_v1-4-0.exe
 2f93bd06a06d6622ef4e310990e7aab94f8d5f5004bcdf20f7f3d9df0fe36b06  ./windows_amd64/core/portmaster-core_v1-4-10.exe
+7599bf7dd1f4ed20e449f0c2aebff4742aa9bc15cba62b419f0900323bd511e7  ./windows_amd64/core/portmaster-core_v1-4-11.exe
 1cbbeb6d8cd9ea41d8463f02dbc1023ca53bb9fd56f720e38e3ad0063a2c221e  ./windows_amd64/core/portmaster-core_v1-4-1.exe
 b787dd1c4e37d51ac99e3dddf3b59b07d372232f063f65188339381d712b9f54  ./windows_amd64/core/portmaster-core_v1-4-2.exe
 6b2fc03b38243dbb2747302b96d6b69e8db0d93c3122303f1bff4a378f2eea93  ./windows_amd64/core/portmaster-core_v1-4-3.exe
@@ -418,6 +423,7 @@ a7511e673a9540b0ee10d7cd99f829316d5b60e45e1c2a3f6fce7315dcec53c7  ./windows_arm6
 e4e18364f53f130991ad3fca462b6dfc50750822bfb6b99c991799cc39dc55b8  ./windows_arm64/core/portmaster-core_v1-3-6.exe
 6446f896b0cefe557ef1d9bf5fc31d90ddfb7d0b3cc2495c962ba4c3f2a0b9b2  ./windows_arm64/core/portmaster-core_v1-4-0.exe
 3fcfe508f42b8d4c40d23610b971c65a907b15b519d79a97d618e96bae6fd1dd  ./windows_arm64/core/portmaster-core_v1-4-10.exe
+92eb1c0d9ab4eae52dacbf12d4067912842cf72ec73630ceb3b51e1522c55e30  ./windows_arm64/core/portmaster-core_v1-4-11.exe
 1cc6dbc56e3e6c570ce9b1835d0c19d440bbfcf5ea82de28b6cc2222ef168fa3  ./windows_arm64/core/portmaster-core_v1-4-1.exe
 d974e27b9a833623143c52f9c583eec3524ae447b172df37283c4417df5e7c85  ./windows_arm64/core/portmaster-core_v1-4-2.exe
 7d4cd0a33abd34ed28ed8b3f0203e809565e34ba16fcf168e21c21bb7dc51768  ./windows_arm64/core/portmaster-core_v1-4-3.exe
