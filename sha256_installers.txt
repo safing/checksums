@@ -20,3 +20,6 @@ dac98a68a94e06dfda24c159e24aefe5cee3dff670b6862ce709c7e707ec60ce  ./Portmaster_2
 f09d9e1f575c658bffd74e2a876ca5f8d95af83212cdad9d94d9df5743c89112  ./Portmaster-2.0.24-1.x86_64.rpm
 5968f3b183b1bee121765aececa65602b4858af118a96f4caa4a62b0aeefa9de  ./Portmaster_2.0.24_amd64.deb
 ae02b695141fb2292250ca875860febb3268861ac94faac2ef8dd1f8bbd80bc0  ./Portmaster_2.0.24_x64-setup.exe
+a02de0f2d305f6de4de5479daed3b36abf939f86d09ce6ede6ebacbe9dd31439  ./Portmaster-2.0.25-1.x86_64.rpm
+043e0300dd329861af0aeaa0b76022abe1fd96996acdd781e7a02d39257fda5c  ./Portmaster_2.0.25_amd64.deb
+28edd7e52db783065269b250ff1901277eae5c9770a1e8b7b6aa171f10586ce5  ./Portmaster_2.0.25_x64-setup.exe
